@@ -1,2 +1,2 @@
 # first-repository
-I am creating this repository to manage my project
+I am creating this repository to manage my work
